@@ -85,7 +85,7 @@ export const shortsHeader = { ml: 1, fontSize: 20, fontWeight: "bold" };
  ************************/
 export const notificationWrapper = {
   width: "100%",
-  maxWidth: 360,
+  maxWidth: 460,
   pb: 0,
 };
 
@@ -105,7 +105,7 @@ export const appCardList = {
  * @type {object}
  * AppContentArea
  ************************/
-export const appContentWrapper = {
+export const sideBarContentWrapper = {
   display: "flex",
   mt: 8,
   width: "100vw",

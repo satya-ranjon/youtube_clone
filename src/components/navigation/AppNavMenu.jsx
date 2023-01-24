@@ -11,9 +11,11 @@ import {
   hideOnMobile,
 } from "../../styles/styles";
 import SearchBar from "./SearchBar";
-import UserProfile from "../UserProfile";
+import NotificationList from "./notification/NotificationList";
+import UserProfile from "./UserProfile";
+import Upload from "./Upload";
 
-const AppNavMenu = (props) => {
+const AppNavMenu = ({ handleSideBar }) => {
   return (
     <AppBar component="nav" sx={appBar}>
       <Toolbar>
@@ -23,7 +25,7 @@ const AppNavMenu = (props) => {
               color="inherit"
               aria-label=" open drawer"
               edge="start"
-              onClick={props.handleDrawerToggle}
+              onClick={handleSideBar}
               sx={{ mr: 2 }}>
               <MenuIcon />
             </IconButton>
@@ -36,6 +38,8 @@ const AppNavMenu = (props) => {
             <SearchBar />
           </Box>
           <Box sx={hideOnMobile}>
+            <Upload />
+            <NotificationList />
             <UserProfile />
           </Box>
         </Box>
