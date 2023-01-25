@@ -105,11 +105,30 @@ export const appCardList = {
  * @type {object}
  * AppContentArea
  ************************/
-export const sideBarContentWrapper = {
+export const AppContentWrapper = {
   display: "flex",
   mt: 8,
   width: "100vw",
   overflow: "hidden",
+};
+/***********************
+ * @type {object}
+ * AppContentArea
+ ************************/
+export const ScrollBar = {
+  scrollbarWidth: "thin",
+  "&::-webkit-scrollbar": {
+    width: "0.4em",
+  },
+  "&::-webkit-scrollbar-track": {
+    background: "#f1f1f1",
+  },
+  "&::-webkit-scrollbar-thumb": {
+    backgroundColor: "#888",
+  },
+  "&::-webkit-scrollbar-thumb:hover": {
+    background: "#555",
+  },
 };
 
 /************************

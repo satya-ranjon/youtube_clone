@@ -159,59 +159,59 @@ export const uploadMenuItems = [
 export const shortsItems = [
   {
     id: 1,
-    url: "#ttps://i.ytimg.com/vi/5CK7UrLThY#/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBkgIZm1dFl6OAzpG31oADTMLab5w",
+    url: "https://i.ytimg.com/vi/5CK7UrLThY#/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBkgIZm1dFl6OAzpG31oADTMLab5w",
     views: "1.7M",
     text: "തല്ലുമാല Dance | Alambanz Shorts",
-    shortsUrl: "#ttps://www.youtube.com/shorts/5CK7UrLThY#",
+    shortsUrl: "https://www.youtube.com/shorts/5CK7UrLThY#",
   },
   {
     id: 2,
-    url: "#ttps://i.ytimg.com/vi/y0q50KVq1X8/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDsC28SPAIXlZrP4NDS7DnYnJzyLQ",
+    url: "https://i.ytimg.com/vi/y0q50KVq1X8/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDsC28SPAIXlZrP4NDS7DnYnJzyLQ",
     views: "1.2M",
     text: "അടിപൊളി Glitch Transition Create ചെയ്‌യാം | Premiere pro transitions Malayalam",
-    shortsUrl: "#ttps://www.youtube.com/shorts/y0q50KVq1X8",
+    shortsUrl: "https://www.youtube.com/shorts/y0q50KVq1X8",
   },
   {
     id: 3,
-    url: "#ttps://i.ytimg.com/vi/MOFXN37pNgI/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDLRR9LHKDCnneHS8A4c0W0t4UaDA",
+    url: "https://i.ytimg.com/vi/MOFXN37pNgI/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDLRR9LHKDCnneHS8A4c0W0t4UaDA",
     views: "1.3M",
     text: "Mahaveeryar movie whatsapp status 😅 അമ്പട കള്ളാ 😂 | Nivin Pauly |",
-    shortsUrl: "#ttps://www.youtube.com/shorts/MOFXN37pNgI",
+    shortsUrl: "https://www.youtube.com/shorts/MOFXN37pNgI",
   },
   {
     id: 4,
-    url: "#ttps://i.ytimg.com/vi/gAqN6R25Jrw/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDLlyqNfI2mW24DdrL-jNW1lOKucw",
+    url: "https://i.ytimg.com/vi/gAqN6R25Jrw/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDLlyqNfI2mW24DdrL-jNW1lOKucw",
     views: "1.4M",
     text: "ബ്ലാക്ക് ഡ്രസ്സിന്റെ ഒരു പവർ 🔥/ ബ്ലാക്ക് ഡ്രസ്സ് ഇഷ്ടപ്പെടുന്നവർ ഉണ്ടോ /celebrities in black dress",
-    shortsUrl: "#ttps://www.youtube.com/shorts/gAqN6R25Jrw",
+    shortsUrl: "https://www.youtube.com/shorts/gAqN6R25Jrw",
   },
   {
     id: 5,
-    url: "#ttps://i.ytimg.com/vi/u869FP5JT5c/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD3cq0jyhILiVJRMwaaoYA9Rov-hw",
+    url: "https://i.ytimg.com/vi/u869FP5JT5c/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD3cq0jyhILiVJRMwaaoYA9Rov-hw",
     views: "1.5M",
     text: "#bimbilikkipilapi #sivakarthikeyan #thamans #sk #anirudh #anirudhravichander #anirudhmusic #siva",
-    shortsUrl: "#ttps://www.youtube.com/shorts/u869FP5JT5c",
+    shortsUrl: "https://www.youtube.com/shorts/u869FP5JT5c",
   },
   {
     id: 6,
-    url: "#ttps://i.ytimg.com/vi/UFMdpvzNuk8/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD62tHklAVRuOgOe7cOcRF2imHM3g",
+    url: "https://i.ytimg.com/vi/UFMdpvzNuk8/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD62tHklAVRuOgOe7cOcRF2imHM3g",
     views: "2.7M",
     text: "കണ്ണൂരുകാർക്ക് വിഷമമായിട്ടുണ്ടാകും പക്ഷേ ഇത് എല്ലാ മലയാളികൾക്കും വേണ്ടിയുള്ള കഥയാണ് | THALLUMAALA |",
-    shortsUrl: "#ttps://www.youtube.com/shorts/UFMdpvzNuk8",
+    shortsUrl: "https://www.youtube.com/shorts/UFMdpvzNuk8",
   },
   {
     id: 7,
-    url: "#ttps://i.ytimg.com/vi/2W8Nyv38f1M/hq720_2.jpg?sqp=-oaymwEdCNAFENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDS03CCwAQcuXP-gxQw8WUUM0XMRw",
+    url: "https://i.ytimg.com/vi/2W8Nyv38f1M/hq720_2.jpg?sqp=-oaymwEdCNAFENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDS03CCwAQcuXP-gxQw8WUUM0XMRw",
     views: "3.7M",
     text: "உலக நாயகன் உருமாறும் Video 😱💥 #Kamalhasan #Vikram #Lokeshkanagaraj",
-    shortsUrl: "#ttps://www.youtube.com/shorts/2W8Nyv38f1M",
+    shortsUrl: "https://www.youtube.com/shorts/2W8Nyv38f1M",
   },
   {
     id: 8,
-    url: "#ttps://i.ytimg.com/vi/lD_vlkLKG20/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAa5koHh1cfIJ_Q-j6RhanORjNqLw",
+    url: "https://i.ytimg.com/vi/lD_vlkLKG20/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAa5koHh1cfIJ_Q-j6RhanORjNqLw",
     views: "4.7M",
     text: "സ്റ്റേജിൽ സുപ്രിയയുടെ ഇംഗ്ലീഷ് കേട്ടപ്പോൾ, ദൈവമേ മൂർഖൻ പാമ്പിനെ ആണല്ലോ ചവിട്ടിയത്",
-    shortsUrl: "#ttps://www.youtube.com/shorts/lD_vlkLKG20",
+    shortsUrl: "https://www.youtube.com/shorts/lD_vlkLKG20",
   },
 ];
 
@@ -232,17 +232,17 @@ export const youtubeResponse = [
         "Watch this JavaScript tutorial for beginners to learn JavaScript basics in one hour. Want to master JavaScript? Get my complete ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/W6NZfCO5SIk/default.jpg",
+          url: "https://i.ytimg.com/vi/W6NZfCO5SIk/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/W6NZfCO5SIk/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/W6NZfCO5SIk/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -267,17 +267,17 @@ export const youtubeResponse = [
         "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
+          url: "https://i.ytimg.com/vi/PkZNo7MFNFg/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -302,17 +302,17 @@ export const youtubeResponse = [
         "Learn JavaScript from scratch by solving over a hundred different coding challenges. Go here for the interactive browser version: ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/jS4aFq5-91M/default.jpg",
+          url: "https://i.ytimg.com/vi/jS4aFq5-91M/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/jS4aFq5-91M/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/jS4aFq5-91M/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/jS4aFq5-91M/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/jS4aFq5-91M/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -337,17 +337,17 @@ export const youtubeResponse = [
         "Learn the most important parts of 2020 Javascript in just 5 minutes If you're serious about learning & earning money with ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/c-I5S_zTwAc/default.jpg",
+          url: "https://i.ytimg.com/vi/c-I5S_zTwAc/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/c-I5S_zTwAc/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/c-I5S_zTwAc/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/c-I5S_zTwAc/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/c-I5S_zTwAc/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -372,17 +372,17 @@ export const youtubeResponse = [
         "In this crash course we will go over the fundamentals of JavaScript including more modern syntax like classes, arrow functions, etc ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/hdI2bqOjy3c/default.jpg",
+          url: "https://i.ytimg.com/vi/hdI2bqOjy3c/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/hdI2bqOjy3c/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/hdI2bqOjy3c/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -407,17 +407,17 @@ export const youtubeResponse = [
         "JavaScript is the the programming language that built the web. Learn how it evolved into a powerful tool for building websites, ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/DHjqpvDnNGE/default.jpg",
+          url: "https://i.ytimg.com/vi/DHjqpvDnNGE/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/DHjqpvDnNGE/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/DHjqpvDnNGE/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/DHjqpvDnNGE/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/DHjqpvDnNGE/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -442,17 +442,17 @@ export const youtubeResponse = [
         "How well do you know JavaScript? Well, if you don't know these 5 concepts, then you better get on it! 00:00 - Intro 01:00 - Equality ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/a00NRSFgHsY/default.jpg",
+          url: "https://i.ytimg.com/vi/a00NRSFgHsY/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/a00NRSFgHsY/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/a00NRSFgHsY/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/a00NRSFgHsY/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/a00NRSFgHsY/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -477,17 +477,17 @@ export const youtubeResponse = [
         "Launch your development career with project-based coaching - showcase your skills with practical development experience and ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/default.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -513,17 +513,17 @@ export const youtubeResponse = [
         "FORK THIS REPL https://join.replit.com/cp-javascript GET THE FREE COURSE ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/default.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/lI1ae4REbFM/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/lI1ae4REbFM/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -548,17 +548,17 @@ export const youtubeResponse = [
         'The JavaScript Survival Guide provides protection from the so-called "weird" features that you will encounter as a JS developer.',
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/9emXNzqCKyg/default.jpg",
+          url: "https://i.ytimg.com/vi/9emXNzqCKyg/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/9emXNzqCKyg/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/9emXNzqCKyg/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/9emXNzqCKyg/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/9emXNzqCKyg/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -583,17 +583,17 @@ export const youtubeResponse = [
         "JavaScript Tutorial for beginners in hindi and urdu in most easiest way.This javascript crash course in hindi explain you every ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/Lgxgm-T9cgA/default.jpg",
+          url: "https://i.ytimg.com/vi/Lgxgm-T9cgA/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/Lgxgm-T9cgA/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/Lgxgm-T9cgA/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/Lgxgm-T9cgA/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/Lgxgm-T9cgA/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -618,17 +618,17 @@ export const youtubeResponse = [
         "In this video, I attempt to learn JavaScript in 3 Days! GitHub Link: https://github.com/TheComeUpCode/hide-ex LET'S BE FRIENDS ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/jjydMpW47wk/default.jpg",
+          url: "https://i.ytimg.com/vi/jjydMpW47wk/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/jjydMpW47wk/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/jjydMpW47wk/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/jjydMpW47wk/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/jjydMpW47wk/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -653,17 +653,17 @@ export const youtubeResponse = [
         "اذا كنت من محبي البرمجة فحتماً قد وقع نظرك على لغة javascript او المعروفة بلغة js لكن هل تملك المعلومات الكافية عنها؟! تعتبر لغة ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/PWuTLTFMtYw/default.jpg",
+          url: "https://i.ytimg.com/vi/PWuTLTFMtYw/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/PWuTLTFMtYw/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/PWuTLTFMtYw/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/PWuTLTFMtYw/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/PWuTLTFMtYw/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -688,17 +688,17 @@ export const youtubeResponse = [
         "What is JavaScript? This short video explains it in 5 minutes. Get the full JavaScript course: http://bit.ly/2M1sp4B Subscribe for ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/upDLs1sn7g4/default.jpg",
+          url: "https://i.ytimg.com/vi/upDLs1sn7g4/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/upDLs1sn7g4/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/upDLs1sn7g4/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/upDLs1sn7g4/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/upDLs1sn7g4/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -723,17 +723,17 @@ export const youtubeResponse = [
         "Learn the fundamental features of JavaScript - the language used to add dynamic, interactive content to websites. I teach you how ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/Ukg_U3CnJWI/default.jpg",
+          url: "https://i.ytimg.com/vi/Ukg_U3CnJWI/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/Ukg_U3CnJWI/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/Ukg_U3CnJWI/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/Ukg_U3CnJWI/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/Ukg_U3CnJWI/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -759,17 +759,17 @@ export const youtubeResponse = [
         "Build a full app in this JavaScript tutorial, designed to help new programmers get into the tech industry. Exercises, code ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/DqaTKBU9TZk/default.jpg",
+          url: "https://i.ytimg.com/vi/DqaTKBU9TZk/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/DqaTKBU9TZk/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/DqaTKBU9TZk/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/DqaTKBU9TZk/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/DqaTKBU9TZk/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -794,17 +794,17 @@ export const youtubeResponse = [
         "Learn JavaScript by building 7 retro games. ✏️ Ania Kubów created this course. Check out her channel: ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/ec8vSKJuZTk/default.jpg",
+          url: "https://i.ytimg.com/vi/ec8vSKJuZTk/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/ec8vSKJuZTk/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/ec8vSKJuZTk/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/ec8vSKJuZTk/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/ec8vSKJuZTk/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -829,17 +829,17 @@ export const youtubeResponse = [
         "Working with arrays in JavaScript used to be a pain with barely any support for complex array operations. Fast forward to today, ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/R8rmfD9Y5-c/default.jpg",
+          url: "https://i.ytimg.com/vi/R8rmfD9Y5-c/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/R8rmfD9Y5-c/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/R8rmfD9Y5-c/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/R8rmfD9Y5-c/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/R8rmfD9Y5-c/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -864,17 +864,17 @@ export const youtubeResponse = [
         "Namaste JavaScript is a pure in-depth JavaScript Course released for Free on Youtube. It will cover the core concepts of ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/pN6jk0uUrD8/default.jpg",
+          url: "https://i.ytimg.com/vi/pN6jk0uUrD8/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/pN6jk0uUrD8/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/pN6jk0uUrD8/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/pN6jk0uUrD8/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/pN6jk0uUrD8/hqdefault.jpg",
           width: 480,
           height: 360,
         },
@@ -899,17 +899,17 @@ export const youtubeResponse = [
         "In this video I show you how I created the most basic, simple javascript game that you can make yourself. It's similar to the google ...",
       thumbnails: {
         default: {
-          url: "#ttps://i.ytimg.com/vi/bG2BmmYr9NQ/default.jpg",
+          url: "https://i.ytimg.com/vi/bG2BmmYr9NQ/default.jpg",
           width: 120,
           height: 90,
         },
         medium: {
-          url: "#ttps://i.ytimg.com/vi/bG2BmmYr9NQ/mqdefault.jpg",
+          url: "https://i.ytimg.com/vi/bG2BmmYr9NQ/mqdefault.jpg",
           width: 320,
           height: 180,
         },
         high: {
-          url: "#ttps://i.ytimg.com/vi/bG2BmmYr9NQ/hqdefault.jpg",
+          url: "https://i.ytimg.com/vi/bG2BmmYr9NQ/hqdefault.jpg",
           width: 480,
           height: 360,
         },

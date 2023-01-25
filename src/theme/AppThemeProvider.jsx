@@ -10,6 +10,7 @@ const theme = createTheme({
       fontWeight: 400,
     },
   },
+
   palette: {
     primary: {
       main: grey[700],
@@ -30,7 +31,7 @@ const theme = createTheme({
       styleOverrides: {
         root: {
           backgroundColor: "#eee",
-          borderRadius: 30,
+          borderRadius: 10,
           marginRight: "10px",
           marginTop: "10px",
           minHeight: "20px",
@@ -57,8 +58,8 @@ const theme = createTheme({
   },
 });
 
-const AppThemeProvider = (props) => {
-  return <ThemeProvider theme={theme}>{props.children}</ThemeProvider>;
+const AppThemeProvider = ({ children }) => {
+  return <ThemeProvider theme={theme}>{children}</ThemeProvider>;
 };
 
 export default AppThemeProvider;

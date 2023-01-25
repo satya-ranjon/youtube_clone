@@ -1,7 +1,7 @@
 import { Box } from "@mui/system";
 import React, { useState } from "react";
 import AppNavMenu from "./components/navigation/AppNavMenu";
-import SideBarContentArea from "./components/sidebar/SideBarContentArea";
+import AppContentArea from "./components/AppContentArea";
 import { appWrapper } from "./styles/styles";
 
 const App = () => {
@@ -12,7 +12,7 @@ const App = () => {
   return (
     <Box sx={appWrapper}>
       <AppNavMenu handleSideBar={handleSideBar} />
-      <SideBarContentArea isOpen={sideBarIsOpen} />
+      <AppContentArea isOpen={sideBarIsOpen} />
     </Box>
   );
 };
