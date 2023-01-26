@@ -30,7 +30,12 @@ const UserProfile = () => {
         id="user_button"
         onClick={handleClick}
         aria-label="User Profile">
-        <FaUserCircle size={24} />
+        {/* <FaUserCircle size={24} /> */}
+        <Avatar
+          sx={{ width: 32, height: 32 }}
+          alt="User"
+          src="https://res.cloudinary.com/dcpbu1ffy/image/upload/v1674757390/pp/pp_oeue4y.png"
+        />
       </IconButton>
       {open && (
         <Menu
@@ -41,7 +46,10 @@ const UserProfile = () => {
           MenuListProps={{ "aria-labelledby": "user_button" }}>
           <ListItem sx={{ pt: 0, pb: 1 }} alignItems="flex-start">
             <ListItemAvatar>
-              <Avatar alt="User" src="`https://i/pravatar.cc/150?img=2" />
+              <Avatar
+                alt="User"
+                src="https://res.cloudinary.com/dcpbu1ffy/image/upload/v1674757390/pp/pp_oeue4y.png"
+              />
             </ListItemAvatar>
             <ListItemText
               primary="Your Profile"

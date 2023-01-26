@@ -20,7 +20,6 @@ import Short from "./Short";
  */
 const ShortLists = ({ isOpen }) => {
   const [isHidden, setIsHidden] = useState(false);
-  console.log(isHidden);
   const hideShorts = () => {
     setIsHidden((prv) => !prv);
   };

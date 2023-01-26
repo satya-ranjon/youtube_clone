@@ -37,7 +37,7 @@ const VideoCard = ({ url, title, channelTitle, videoId }) => {
             <ListItemAvatar>
               <Avatar
                 alt="channel avatar"
-                src="https://i.pravatar.cc/100?img=1"
+                src="https://res.cloudinary.com/dcpbu1ffy/image/upload/v1674757390/pp/pp_oeue4y.png"
               />
             </ListItemAvatar>
             <Box sx={flexColumnCenter}>

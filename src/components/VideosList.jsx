@@ -16,16 +16,20 @@ const VideosList = ({ items }) => {
       <Grid container rowSpacing={1} columnSpacing={{ xs: 2, sm: 4 }}>
         {items.length &&
           items.map((item) => {
-            const key = item.etag;
-            const { videoId } = item.id;
-            const { thumbnails, title, channelTitle } = item.snippet;
+            const { thumbnails, title, channelTitle, channelId } = item.snippet;
             return (
-              <Grid key={key} item xs={12} sm={6} md={4} lg={3}>
+              <Grid
+                key={item.id.videoId + channelId}
+                item
+                xs={12}
+                sm={6}
+                md={4}
+                lg={3}>
                 <VideoCard
                   url={thumbnails.high.url}
                   title={title}
                   channelTitle={channelTitle}
-                  videoId={videoId}
+                  videoId={item.id.videoId}
                 />
               </Grid>
             );
