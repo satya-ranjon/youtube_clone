@@ -26,7 +26,7 @@ const AppContentArea = ({ isOpen }) => {
 
   const item1 = youtubeData.slice(0, 8);
   const item2 = youtubeData.slice(8);
-  console.log(!youtubeData.length);
+
   return (
     <Box component="main" sx={AppContentWrapper}>
       <SideBarList isOpen={isOpen} />
