@@ -19,7 +19,6 @@ const VideosList = ({ items }) => {
             const key = item.etag;
             const { videoId } = item.id;
             const { thumbnails, title, channelTitle } = item.snippet;
-            console.log(thumbnails.high.url);
             return (
               <Grid key={key} item xs={12} sm={6} md={4} lg={3}>
                 <VideoCard
