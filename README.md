@@ -1,6 +1,6 @@
 ![YouTube Clone ](https://res.cloudinary.com/dcpbu1ffy/image/upload/v1674757390/pp/pp_oeue4y.png)
 
-# <a href="https://youtube-clone-weld-iota.vercel.app/" target="_blank">Live Here...</a>
+# <a href="https://youtube-clone-weld-iota.vercel.app/" target="blank">Live Here...</a>
 
 ## 🖥️ Tech Stack
 
